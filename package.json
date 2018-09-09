@@ -1,0 +1,22 @@
+{
+  "name": "parcel-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.9.3",
+    "pug": "^2.0.3"
+  },
+  "dependencies": {
+    "ax": "^0.2.2",
+    "axios": "^0.18.0",
+    "joke": "^0.0.1-1",
+    "jquery": "^3.3.1"
+  }
+}
